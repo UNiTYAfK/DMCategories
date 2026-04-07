@@ -22,7 +22,7 @@
       "id": "000000000000000000"
     }
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "vendetta": {
     "icon": "ic_category_16px"
   }
