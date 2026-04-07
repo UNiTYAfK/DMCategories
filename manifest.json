@@ -1,20 +1,6 @@
 {
   "id": "dev.spince.dmcategories",
   "name": "DMCategories",
-  "description": "Adds collapsible categories",
-  "authors": [
-    {
-      "name": "spince",
-      "id": "000000000000000000"
-    }
-  ],
-  "main": "dist/index.js",
-  "vendetta": {
-    "icon": "ic_category_16px"
-  }
-}{
-  "id": "dev.spince.dmcategories",
-  "name": "DMCategories",
   "description": "Adds collapsible categories to your DM list. Categories appear pinned at the top.",
   "authors": [
     {
